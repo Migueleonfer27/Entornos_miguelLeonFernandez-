@@ -41,3 +41,7 @@ private fun sumarFilas(m: Array<Array<Int>>, sumaFilas: Array<Int>) {
         f++
     }
 }
+
+fun funcionalidadRequerida(){
+    println("Nueva funcionalidad")
+}
