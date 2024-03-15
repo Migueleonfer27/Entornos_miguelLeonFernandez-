@@ -20,3 +20,5 @@ El programa utiliza la clase `Random` de Kotlin para generar números aleatorios
 ## Autor
 
 Este código fue creado por MIGUEL LEON FERNANDEZ.
+
+NOMBRE COLABORADOR: MIGUEL
